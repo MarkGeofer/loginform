@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: auto;
+    background-color: yellow;
+    background-size: 200px;
+   
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aliceblue;
+   width: 600px;
+    height: 1000px;
+     border-radius: 20px 16px;
+     border: solid silver;
+     overflow: hidden;
+     justify-content: center;
+     align-content: center;
+   
+    
+}
+
